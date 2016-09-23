@@ -18,7 +18,7 @@ $curpage = 'wildanimals.php';
 Wildlife can be found in all ecosystems. Deserts, forests, rain forests, plains, grasslands, and other areas including the most developed urban sites, all have distinct forms of wildlife. While the term in popular culture usually refers to animals that are untouched by human factors,[2] most scientists agree that much wildlife is affected by human activities.
 <br>
 Humans have historically tended to separate civilization from wildlife in a number of ways including the legal, social, and moral sense. Some animals, however, have adapted to suburban environments. This includes such animals as domesticated cats, dogs, mice, and gerbils. Some religions declare certain animals to be sacred, and in modern times concern for the natural environment has provoked activists to protest against the exploitation of wildlife for human benefit or entertainment.</p>
-<img src="../php/wildanimals.png" width="677" height="180" alt=""/>
+<img src="wildanimals.png" width="677" height="180" alt=""/>
 <?php require '../php/footer.php';?>
 </body>
 </html>
