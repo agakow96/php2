@@ -4,13 +4,16 @@
 <meta charset="UTF-8">
 <title>Wild animals</title>
 <link href="../php/stylewildanimals.css" rel="stylesheet" type="text/css">
+<!--adding stylesheet for this page-->
 </head>
 
 <body>
 <?php
 $curpage = 'wildanimals.php';
-
- require '../php/menu.php';?>
+/*this value is a current number of page you are at*/
+ require '../php/menu.php';
+ /*this page must use a subpage "menu.php" that's why it's required*/
+ ?>
 <h1>About wild animals</h1>
 
 <p>Wildlife traditionally refers to undomesticated animal species, but has come to include all plants, fungi, and other organisms that grow or live wild in an area without being introduced by humans.[1]
@@ -19,6 +22,8 @@ Wildlife can be found in all ecosystems. Deserts, forests, rain forests, plains,
 <br>
 Humans have historically tended to separate civilization from wildlife in a number of ways including the legal, social, and moral sense. Some animals, however, have adapted to suburban environments. This includes such animals as domesticated cats, dogs, mice, and gerbils. Some religions declare certain animals to be sacred, and in modern times concern for the natural environment has provoked activists to protest against the exploitation of wildlife for human benefit or entertainment.</p>
 <img src="wildanimals.png" width="677" height="180" alt=""/>
-<?php require '../php/footer.php';?>
+<?php require '../php/footer.php';
+/*This page is using code from file: "footer.php" that's why it's required*/
+?>
 </body>
 </html>
