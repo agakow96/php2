@@ -20,7 +20,7 @@ Pets provide their owners (or guardians[1]) physical and emotional benefits. Wal
 The most popular pets are likely dogs and cats, but people also keep house rabbits, ferrets; rodents such as gerbils, hamsters, chinchillas, fancy rats, and guinea pigs; avian pets, such as canaries, parakeets, corvids and parrots; reptile pets, such as turtles, lizards and snakes; aquatic pets, such as goldfish, tropical fish and frogs; and arthropod pets, such as tarantulas and hermit crabs.
 
 Some scholars and animal rights organizations have raised concern over pet-keeping with regards to the autonomy and objectification of nonhuman animals.</p>
-<img src="livestock.png" width="2860" height="1356" alt=""/>
+<img src="line-pets1.png" width="640" height="297" alt=""/>
 <?php require '../php/footer.php';?>
 </body>
 </html>
